@@ -1,7 +1,10 @@
 # 💫 About Me:
-AI Banking Intelligence Platform using Django REST Framework and React<br>Full Stack Web Apps, AI powered projects and Cloud based applications<br>Machine Learning models and Cloud deployment using AWS or Azure<br>Python, React, Machine Learning, REST APIs and Cloud Computing basics<br>Django, Python, REST APIs, AI Integration and Full Stack Web Development<br>I have built 3 AI powered full stack projects as a BCA student targeting Software Developer roles!
-
-
+- 🔭 I'm currently working on **AI Banking Intelligence Platform using Django REST Framework and React**
+- 👯 I'm looking to collaborate on **Full Stack Web Apps, AI powered projects and Data Analytics Dashboards**
+- 🤝 I'm looking for help with **Machine Learning, Data Analytics and Advanced Data Visualization**
+- 🌱 I'm currently learning **Python, React, Power BI, SQL, Machine Learning and Data Science**
+- 💬 Ask me about **Django, Python, REST APIs, Pandas, SQL, Data Analysis and AI Integration**
+- ⚡ Fun fact **I have built 3 AI powered full stack projects as a BCA student targeting Software Developer and Data Analyst roles!**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/numan-fahad-147122338) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:numanfahad88@gmail.com) 
 
